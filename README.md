@@ -1,2 +1,2 @@
 This repository includes coding samples from my health economics research and data science course projects as a Research Assistant at Harvard Medical School. 
-I use Stata for econometric analysis, R for matching algorithms, and SAS for cleaning large Medicare/Medicaid/Marketscan claims data and running CMS' risk adjustment models. I'm currently taking a course on data science methods using Python.
+I use Stata for econometric analysis, R for matching algorithms, and SAS for cleaning large Medicare/Medicaid/Marketscan claims data and running CMS' risk adjustment models. I'm currently taking a course at Harvard on data science methods using Python.
